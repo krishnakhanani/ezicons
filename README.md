@@ -1,5 +1,5 @@
 # Ezicons 👩‍💻
-Simplify icon integration! Ezicons: Your go to place for seamless icon usage anywhere, from GitHub ReadMe to websites. 🎉🖼️ #Ezicons
+Simplify icon integration! Ezicons: Your go to place for seamless icon usage anywhere, from GitHub ✔ ReadMe to websites. 🎉🖼️ #Ezicons
 
 
 With over 300+ icons 🤯 to choose from!
